@@ -1,5 +1,5 @@
 # Kohonen-Self-Organizing-Maps
-Implementation and Experimentation of the Kohonen Self-Organizing Maps Algorithm\
+Implementation and Experimentation of the Kohonen Self-Organizing Maps Algorithm.
 
 ## In this project:
 * 1 - Base formula and code implementation of the kohonen Self-Organizing Maps Algorithm `(som1_implemetation.ipynb)`.
